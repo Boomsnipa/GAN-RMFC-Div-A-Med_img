@@ -11,8 +11,8 @@ The scarcity of labeled medical image datasets due to privacy concerns and data 
 We'll be using the Chest X-ray (pneumonia) dataset described and analyzed in "Deep learning-based classification and referral of treatable human diseases". The dataset consists of validated OCT and Chest X-Ray images split into a training set and a testing set of independent patients. OCT Images are labeled as (disease)-(randomized patient ID)-(image number by this patient) and split into 4 directories: CNV, DME, DRUSEN, and NORMAL.
 
 ## Team
-- [Anurag Kumar Singh](url)
-- [Anshul Godghate](url)
+- [Anurag Kumar Singh](https://www.linkedin.com/in/anurag-singh-682821213/)
+- [Anshul Godghate](https://www.linkedin.com/in/anshul-godghate-968965242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Shivani Atigre](url)
 
 ## Contributions
